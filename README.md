@@ -9,7 +9,6 @@ This project implements **player and referee tracking** in sports videos using a
 - ⚽ Detects and tracks players (`class 2`) and referees (`class 3`)
 - 🟦 Maintains **consistent IDs** across frames using Deep SORT
 - 🟥 Assigns **unique colors** and ID labels to each tracked object
-- 📺 Displays a live tracking window (no video saved)
 - 🧠 Built using `Ultralytics YOLO`, `Deep SORT`, and `OpenCV`
 
 ---
